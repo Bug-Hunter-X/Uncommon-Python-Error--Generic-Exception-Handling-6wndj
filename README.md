@@ -1,0 +1,1 @@
+This repository demonstrates a common but subtle error in Python exception handling. The original code uses a generic `except Exception` block, which can mask unexpected errors. The improved solution demonstrates more specific exception handling, leading to better error messages and easier debugging.  See bug.py for the buggy code and bugSolution.py for the corrected version.
